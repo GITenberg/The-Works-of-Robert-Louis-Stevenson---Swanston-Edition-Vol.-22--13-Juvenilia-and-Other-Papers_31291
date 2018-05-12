@@ -1,0 +1,34 @@
+_repo: The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-22--13-Juvenilia-and-Other-Papers_31291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcc 'PR'
+tableOfContents: The Pentland Rising -- Sketches -- College Papers -- Notes and Essays
+  Chiefly of the Road -- Criticisms -- An Appeal to the Clergy of the Church Of Scotland
+  -- The Charity Bazaar -- The Light-Keeper -- On a New Form of Intermittent Light
+  for Lighthouses -- On the Thermal Influence of Forests -- Essays of travel -- Stevenson
+  at play -- The Davos Press -- Moral tales.
+title: "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 22\r\nJuvenilia\
+  \ and Other Papers"
+url: http://www.gutenberg.org/ebooks/31291
