@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English literature -- 19th century'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: The Pentland Rising -- Sketches -- College Papers -- Notes and Essays
   Chiefly of the Road -- Criticisms -- An Appeal to the Clergy of the Church Of Scotland
   -- The Charity Bazaar -- The Light-Keeper -- On a New Form of Intermittent Light
